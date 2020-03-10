@@ -7,7 +7,7 @@
 - 3333 data points
 
 ## EDA
-
+![Log Plot](c_v_vm.png)
 ## Feature Engineering and Selection
 
 ## Model Selection and Evaluation
