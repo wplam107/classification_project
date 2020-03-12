@@ -13,6 +13,7 @@
 - Several fairly prominent features: voicemail messages, total minutes across day/evening/night/international, total customer service calls
 - Colinearity between total minutes and total charges across day/evening/night/international
 - Having voicemail messages and not having voicemail messages also strongly correlated with churn rate, chi-squared well over critical value from alpha = 0.05
+
 ![Log Plot](c_v_vm.png)
 ![Top Features](top_features.png)
 
