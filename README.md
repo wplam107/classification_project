@@ -2,6 +2,10 @@
 - Wayne Lam
 - Object Oriented Approach to Classification Project (classification_funcs.py)
 
+## Goal
+- To find predictors for Telecom Churn Rates
+- To create a model to determine if a customer is to drop service plan (churn) based on various factors (VM, usage, etc.)
+
 ## Data
 - From https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 - Evaluating features (variables) in telecom service that correlate with churn (unsubscribing from a service)
